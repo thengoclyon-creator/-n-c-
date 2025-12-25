@@ -1,0 +1,5 @@
+{
+  "name": "SneakerHub - Premium Shoe E-commerce",
+  "description": "A comprehensive sneaker e-commerce platform including product discovery, details, cart management, and news. Features a C# Entity Framework compatible data structure.",
+  "requestFramePermissions": []
+}
